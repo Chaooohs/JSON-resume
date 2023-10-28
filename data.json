@@ -52,7 +52,7 @@
   {
     "categories": "html",
     "workName": "orno",
-    "workImage": "./img/works/orno.png",
+    "workImage": "/img/works/orno.png",
     "workLink": "https://chaooohs-orno.netlify.app/",
     "description": "html + css",
     "note": "(адаптив)"
@@ -60,7 +60,7 @@
   {
     "categories": "html",
     "workName": "infinizai",
-    "workImage": "../img/works/infinizai.png",
+    "workImage": "/img/works/infinizai.png",
     "workLink": "https://chaooohs-infinizai.netlify.app/",
     "description": "html + css",
     "note": "(адаптив)"
@@ -68,7 +68,7 @@
   {
     "categories": "react",
     "workName": "todo",
-    "workImage": "https://raw.githubusercontent.com/Chaooohs/work-images/blob/f5209a66abaac667db67f8bb2bd0c0aaa33ae9dd/img/todo.png",
+    "workImage": "/img/works/todo.png",
     "workLink": "https://chaooohs-shopping-list.netlify.app/",
     "description": "react",
     "note": "(адаптив)"
