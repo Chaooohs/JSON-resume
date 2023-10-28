@@ -18,6 +18,7 @@
     "workLink": "https://chaooohs-infinizai.netlify.app/"
   },
   {
+    "id": "card0",
     "categories": "html",
     "workName": "dupper",
     "workImage": "/img/works/dupper.png",
@@ -26,6 +27,7 @@
     "note": "(адаптив)"
   },
   {
+    "id": "card1",
     "categories": "html",
     "workName": "resume",
     "workImage": "/img/works/resume.png",
@@ -34,6 +36,7 @@
     "note": "(адаптив)"
   },
   {
+    "id": "card2",
     "categories": "html",
     "workName": "bikcraft",
     "workImage": "/img/works/bikcraft.png",
@@ -42,6 +45,7 @@
     "note": "(адаптив)"
   },
   {
+    "id": "card3",
     "categories": "html",
     "workName": "work6",
     "workImage": "/img/works/work6.png",
@@ -50,6 +54,7 @@
     "note": "(адаптив)"
   },
   {
+    "id": "card4",
     "categories": "html",
     "workName": "orno",
     "workImage": "/img/works/orno.png",
@@ -58,6 +63,7 @@
     "note": "(адаптив)"
   },
   {
+    "id": "card5",
     "categories": "html",
     "workName": "infinizai",
     "workImage": "/img/works/infinizai.png",
@@ -66,6 +72,7 @@
     "note": "(адаптив)"
   },
   {
+    "id": "card1",
     "categories": "react",
     "workName": "todo",
     "workImage": "/img/works/todo.png",
