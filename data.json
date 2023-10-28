@@ -20,7 +20,7 @@
   {
     "categories": "html",
     "workName": "dupper",
-    "workImage": "/img/works/dupper.png",
+    "workImage": "/img/dupper.png",
     "workLink": "https://chaooohs-dupper-bully.netlify.app/",
     "description": "html + css",
     "note": "(адаптив)"
@@ -28,7 +28,7 @@
   {
     "categories": "html",
     "workName": "resume",
-    "workImage": "/img/works/resume.png",
+    "workImage": "/img/resume.png",
     "workLink": "https://chaooohs-resume.netlify.app/",
     "description": "html + css",
     "note": "(адаптив)"
@@ -36,7 +36,7 @@
   {
     "categories": "html",
     "workName": "bikcraft",
-    "workImage": "/img/works/bikcraft.png",
+    "workImage": "/img/bikcraft.png",
     "workLink": "https://chaooohs-bikcraft.netlify.app/",
     "description": "html + css",
     "note": "(адаптив)"
@@ -44,7 +44,7 @@
   {
     "categories": "html",
     "workName": "work6",
-    "workImage": "/img/works/work6.png",
+    "workImage": "/img/work6.png",
     "workLink": "https://chaooohs-homework-6.netlify.app/",
     "description": "html + css",
     "note": "(адаптив)"
@@ -52,7 +52,7 @@
   {
     "categories": "html",
     "workName": "orno",
-    "workImage": "/img/works/orno.png",
+    "workImage": "/img/orno.png",
     "workLink": "https://chaooohs-orno.netlify.app/",
     "description": "html + css",
     "note": "(адаптив)"
@@ -60,9 +60,17 @@
   {
     "categories": "html",
     "workName": "infinizai",
-    "workImage": "/img/works/infinizai.png",
+    "workImage": "/img/infinizai.png",
     "workLink": "https://chaooohs-infinizai.netlify.app/",
     "description": "html + css",
+    "note": "(адаптив)"
+  },
+  {
+    "categories": "react",
+    "workName": "todo",
+    "workImage": "/img/todo.png",
+    "workLink": "https://chaooohs-shopping-list.netlify.app/",
+    "description": "react",
     "note": "(адаптив)"
   }
 ]
