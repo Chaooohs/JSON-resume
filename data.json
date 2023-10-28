@@ -1,21 +1,30 @@
 [
   {
+    "id": "card0",
     "categories": "main",
     "workName": "store",
-    "workImage": "",
-    "workLink": "https://chaooohs-sport-if.netlify.app/"
+    "workImage": "/img/works/store.png",
+    "workLink": "https://chaooohs-sport-if.netlify.app/",
+    "description": "html + css + js",
+    "note": "(адаптив)"
   },
   {
+    "id": "card3",
     "categories": "main",
-    "workName": "",
-    "workImage": "",
-    "workLink": ""
+    "workName": "infinizai",
+    "workImage": "/img/works/infinizai.png",
+    "workLink": "https://chaooohs-infinizai.netlify.app/",
+    "description": "html + css",
+    "note": "(адаптив)"
   },
   {
+    "id": "card5",
     "categories": "main",
-    "workName": "",
-    "workImage": "",
-    "workLink": "https://chaooohs-infinizai.netlify.app/"
+    "workName": "pizza",
+    "workImage": "/img/works/pizza.png",
+    "workLink": "https://chaooohs-pizza.netlify.app/",
+    "description": "html + css + js",
+    "note": "(drag & drop)"
   },
   {
     "id": "card0",
@@ -88,5 +97,14 @@
     "workLink": "https://chaooohs-my-electro.netlify.app/",
     "description": "react",
     "note": "(адаптив)"
+  },
+  {
+    "id": "card7",
+    "categories": "main",
+    "workName": "achille",
+    "workImage": "/img/works/achille.png",
+    "workLink": "https://chaooohs-achille-ciio.netlify.app/",
+    "description": "html + css + bootstrap",
+    "note": "(адаптив, сайт на 9 сторiнок)"
   }
 ]
