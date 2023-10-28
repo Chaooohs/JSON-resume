@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "main0",
     "categories": "main",
@@ -59,8 +59,8 @@
     "workName": "work6",
     "workImage": "/img/works/work6.png",
     "workLink": "https://chaooohs-homework-6.netlify.app/",
-    "description": "html + css",
-    "note": "(адаптив)"
+    "description": "меню бургер на CSS",
+    "note": ""
   },
   {
     "id": "card4",
@@ -77,8 +77,8 @@
     "workName": "infinizai",
     "workImage": "/img/works/infinizai.png",
     "workLink": "https://chaooohs-infinizai.netlify.app/",
-    "description": "html + css",
-    "note": "(адаптив)"
+    "description": "меню бургер на jQuery",
+    "note": ""
   },
   {
     "id": "card1",
