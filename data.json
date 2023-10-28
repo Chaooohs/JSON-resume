@@ -79,5 +79,14 @@
     "workLink": "https://chaooohs-shopping-list.netlify.app/",
     "description": "react",
     "note": "(адаптив)"
+  },
+  {
+    "id": "card3",
+    "categories": "js",
+    "workName": "electro",
+    "workImage": "/img/works/electro.png",
+    "workLink": "https://chaooohs-my-electro.netlify.app/",
+    "description": "react",
+    "note": "(адаптив)"
   }
 ]
