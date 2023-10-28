@@ -9,7 +9,7 @@
     "note": "(адаптив)"
   },
   {
-    "id": "main3",
+    "id": "main1",
     "categories": "main",
     "workName": "infinizai",
     "workImage": "/img/works/infinizai.png",
@@ -18,7 +18,7 @@
     "note": "(адаптив)"
   },
   {
-    "id": "main5",
+    "id": "main2",
     "categories": "main",
     "workName": "pizza",
     "workImage": "/img/works/pizza.png",
@@ -99,7 +99,7 @@
     "note": "(адаптив)"
   },
   {
-    "id": "main7",
+    "id": "main3",
     "categories": "main",
     "workName": "achille",
     "workImage": "/img/works/achille.png",
