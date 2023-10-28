@@ -68,7 +68,7 @@
   {
     "categories": "react",
     "workName": "todo",
-    "workImage": "/img/works/todo.png",
+    "workImage": "img/todo.png",
     "workLink": "https://chaooohs-shopping-list.netlify.app/",
     "description": "react",
     "note": "(адаптив)"
