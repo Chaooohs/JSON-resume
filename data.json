@@ -1,6 +1,6 @@
 [
   {
-    "id": "card0",
+    "id": "main0",
     "categories": "main",
     "workName": "store",
     "workImage": "/img/works/store.png",
@@ -9,7 +9,7 @@
     "note": "(адаптив)"
   },
   {
-    "id": "card3",
+    "id": "main3",
     "categories": "main",
     "workName": "infinizai",
     "workImage": "/img/works/infinizai.png",
@@ -18,7 +18,7 @@
     "note": "(адаптив)"
   },
   {
-    "id": "card5",
+    "id": "main5",
     "categories": "main",
     "workName": "pizza",
     "workImage": "/img/works/pizza.png",
@@ -99,7 +99,7 @@
     "note": "(адаптив)"
   },
   {
-    "id": "card7",
+    "id": "main7",
     "categories": "main",
     "workName": "achille",
     "workImage": "/img/works/achille.png",
