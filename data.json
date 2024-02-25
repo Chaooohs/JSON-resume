@@ -120,5 +120,15 @@
     "workLink": "https://khaooohs-rick-and-morty.netlify.app/",
     "workSkill": "React.js",
     "note": "adaptive"
+  },
+  {
+    "id": "016",
+    "main": "react",
+    "category": "react",
+    "workName": "Fat Burgers",
+    "workImage": "https://i.postimg.cc/zvSkXWbk/fat-burgers.jpg",
+    "workLink": "https://khaooohs-fat-burger-react.netlify.app/",
+    "workSkill": "React.js + RTK Query + React Hook Form",
+    "note": "After logging in at /admin, you can edit posts. adaptive"
   }
 ]
