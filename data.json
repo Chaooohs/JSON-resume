@@ -10,6 +10,26 @@
     "note": "adaptive, the work is not finished yet"
   },
   {
+    "id": "015",
+    "main": "react",
+    "category": "react",
+    "workName": "Rick adn Morty",
+    "workImage": "https://i.postimg.cc/HLW923Qn/rick-and-morty.jpg",
+    "workLink": "https://khaooohs-rick-and-morty.netlify.app/",
+    "workSkill": "React.js",
+    "note": "adaptive"
+  },
+  {
+    "id": "016",
+    "main": "react",
+    "category": "react",
+    "workName": "Fat Burgers",
+    "workImage": "https://i.postimg.cc/zvSkXWbk/fat-burgers.jpg",
+    "workLink": "https://khaooohs-fat-burger-react.netlify.app/",
+    "workSkill": "React.js + RTK Query + React Hook Form",
+    "note": "After logging, you can edit posts: create, edit, delete. adaptive"
+  },
+  {
     "id": "001",
     "main": "html",
     "category": "html",
@@ -120,25 +140,5 @@
     "workLink": "https://khaooohs-crm.netlify.app/",
     "workSkill": "React.js",
     "note": "adaptive"
-  },
-  {
-    "id": "015",
-    "main": "react",
-    "category": "react",
-    "workName": "Rick adn Morty",
-    "workImage": "https://i.postimg.cc/HLW923Qn/rick-and-morty.jpg",
-    "workLink": "https://khaooohs-rick-and-morty.netlify.app/",
-    "workSkill": "React.js",
-    "note": "adaptive"
-  },
-  {
-    "id": "016",
-    "main": "react",
-    "category": "react",
-    "workName": "Fat Burgers",
-    "workImage": "https://i.postimg.cc/zvSkXWbk/fat-burgers.jpg",
-    "workLink": "https://khaooohs-fat-burger-react.netlify.app/",
-    "workSkill": "React.js + RTK Query + React Hook Form",
-    "note": "After logging, you can edit posts: create, edit, delete. adaptive"
   }
 ]
