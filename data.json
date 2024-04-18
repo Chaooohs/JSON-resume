@@ -30,6 +30,16 @@
     "note": "After logging, you can edit posts: create, edit, delete. adaptive"
   },
   {
+    "id": "014",
+    "main": "react",
+    "category": "react",
+    "workName": "CRM",
+    "workImage": "https://i.postimg.cc/QttKBycg/crm.jpg",
+    "workLink": "https://khaooohs-crm.netlify.app/",
+    "workSkill": "React.js",
+    "note": "adaptive"
+  },
+  {
     "id": "001",
     "main": "html",
     "category": "html",
@@ -129,16 +139,6 @@
     "workImage": "https://i.postimg.cc/JnGcwnYW/resume-two.jpg",
     "workLink": "https://khaooohs-resume.netlify.app/",
     "workSkill": "html + css",
-    "note": "adaptive"
-  },
-  {
-    "id": "014",
-    "main": "react",
-    "category": "react",
-    "workName": "CRM",
-    "workImage": "https://i.postimg.cc/QttKBycg/crm.jpg",
-    "workLink": "https://khaooohs-crm.netlify.app/",
-    "workSkill": "React.js",
     "note": "adaptive"
   }
 ]
