@@ -1,5 +1,15 @@
 ﻿[
   {
+    "id": "017",
+    "main": "react",
+    "category": "react",
+    "workName": "Mollen",
+    "workImage": "https://i.postimg.cc/GtrgMs3z/mollen.jpg",
+    "workLink": "https://khaooohs-mollen-client-tailwind.netlify.app/",
+    "workSkill": "React.js + Redux-Toolkit + RTK Query + Tailwind",
+    "note": "adaptive, the work is not finished yet"
+  },
+  {
     "id": "001",
     "main": "html",
     "category": "html",
