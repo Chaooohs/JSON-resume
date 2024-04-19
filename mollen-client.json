@@ -1147,5 +1147,290 @@
       "https://intertop.ua/load/CLN6476/1600x2133/1.jpg",
       "https://intertop.ua/load/CLN6476/1600x2133/2.jpg"
     ]
+  },
+  {
+    "id": "5132674",
+    "brand": "KIKO MILANO",
+    "title": "Бальзам для губ",
+    "description": "Бальзам для губ KIKO MILANO живить та зволожує.",
+    "price": 399,
+    "discountPercentage": 0,
+    "rating": 5,
+    "stock": 21,
+    "category": "women",
+    "subcategory": "cosmetics",
+    "color": "pink",
+    "size": ["one"],
+    "thumbnail": "https://intertop.ua/load/KML1129/412x550/MAIN.jpg",
+    "preview": [
+      "https://intertop.ua/load/KML1129/200x267/MAIN.jpg",
+      "https://intertop.ua/load/KML1129/200x267/1.jpg",
+      "https://intertop.ua/load/KML1129/200x267/zshade.jpg"
+    ],
+    "images": [
+      "https://intertop.ua/load/KML1129/412x550/MAIN.jpg",
+      "https://intertop.ua/load/KML1129/412x550/1.jpg",
+      "https://intertop.ua/load/KML1129/412x550/zshade.jpg"
+    ],
+    "screen": [
+      "https://intertop.ua/load/KML1129/1600x2133/MAIN.jpg",
+      "https://intertop.ua/load/KML1129/1600x2133/1.jpg",
+      "https://intertop.ua/load/KML1129/1600x2133/zshade.jpg"
+    ]
+  },
+  {
+    "id": "7153508",
+    "brand": "KIKO MILANO",
+    "title": "Бальзам для губ зволожуючий GREEN ME",
+    "description": "Бальзам для губ Kiko Milano Green Me Hydrating Lip Balm із зволожуючим ефектом. Він ідеально підходить для догляду за губами, надаючи їм зволоження та м'якість.",
+    "price": 349,
+    "discountPercentage": 31,
+    "rating": 4.2,
+    "stock": 9,
+    "category": "women",
+    "subcategory": "cosmetics",
+    "color": "none",
+    "size": ["one"],
+    "thumbnail": "https://intertop.ua/load/KML2487/412x550/MAIN.jpg",
+    "preview": [
+      "https://intertop.ua/load/KML2487/200x267/MAIN.jpg",
+      "https://intertop.ua/load/KML2487/200x267/1.jpg",
+      "https://intertop.ua/load/KML2487/200x267/zshade.jpg"
+    ],
+    "images": [
+      "https://intertop.ua/load/KML2487/412x550/MAIN.jpg",
+      "https://intertop.ua/load/KML2487/412x550/1.jpg",
+      "https://intertop.ua/load/KML2487/412x550/zshade.jpg"
+    ],
+    "screen": [
+      "https://intertop.ua/load/KML2487/1600x2133/MAIN.jpg",
+      "https://intertop.ua/load/KML2487/1600x2133/1.jpg",
+      "https://intertop.ua/load/KML2487/1600x2133/zshade.jpg"
+    ]
+  },
+  {
+    "id": "8185972",
+    "brand": "Hillary",
+    "title": "патчі освіжаючі з вітаміном С",
+    "description": "Завдяки освіжаючим гідрогелевим патчам набряклі очі миттєво стають відпочилими та сяючими.",
+    "price": 516,
+    "discountPercentage": 21,
+    "rating": 4.4,
+    "stock": 5,
+    "category": "women",
+    "subcategory": "cosmetics",
+    "color": "none",
+    "size": ["one"],
+    "thumbnail": "https://intertop.ua/load/HILL41/412x550/MAIN.jpg",
+    "preview": [
+      "https://intertop.ua/load/HILL41/200x267/MAIN.jpg",
+      "https://intertop.ua/load/HILL41/200x267/1.jpg",
+      "https://intertop.ua/load/HILL41/200x267/2.jpg",
+      "https://intertop.ua/load/HILL41/200x267/3.jpg",
+      "https://intertop.ua/load/HILL41/200x267/4.jpg"
+    ],
+    "images": [
+      "https://intertop.ua/load/HILL41/412x550/MAIN.jpg",
+      "https://intertop.ua/load/HILL41/412x550/1.jpg",
+      "https://intertop.ua/load/HILL41/412x550/2.jpg",
+      "https://intertop.ua/load/HILL41/412x550/3.jpg",
+      "https://intertop.ua/load/HILL41/412x550/4.jpg"
+    ],
+    "screen": [
+      "https://intertop.ua/load/HILL41/1600x2133/MAIN.jpg",
+      "https://intertop.ua/load/HILL41/1600x2133/1.jpg",
+      "https://intertop.ua/load/HILL41/1600x2133/2.jpg",
+      "https://intertop.ua/load/HILL41/1600x2133/3.jpg",
+      "https://intertop.ua/load/HILL41/1600x2133/4.jpg"
+    ]
+  },
+  {
+    "id": "8603323",
+    "brand": "Dushka",
+    "title": "Олія для засмаги",
+    "description": "Легкий аромат іланг-ілангу підніме настрій, допоможе забути про повсякденні турботи та проблеми, дозволить повною мірою відпочити і тілом, і душею!",
+    "price": 75,
+    "discountPercentage": 0,
+    "rating": 4.4,
+    "stock": 23,
+    "category": "women",
+    "subcategory": "cosmetics",
+    "color": "none",
+    "size": ["one"],
+    "thumbnail": "https://intertop.ua/load/NF-00005926/412x550/MAIN.png",
+    "preview": [
+      "https://intertop.ua/load/NF-00005926/200x267/MAIN.png",
+      "https://intertop.ua/load/NF-00005926/200x267/1.png"
+    ],
+    "images": [
+      "https://intertop.ua/load/NF-00005926/412x550/MAIN.png",
+      "https://intertop.ua/load/NF-00005926/412x550/1.png"
+    ],
+    "screen": [
+      "https://intertop.ua/load/NF-00005926/1600x2133/MAIN.png",
+      "https://intertop.ua/load/NF-00005926/1600x2133/1.png"
+    ]
+  },
+  {
+    "id": "7996860",
+    "brand": "Hillary",
+    "title": "олія для обличчя та волосся",
+    "description": "Олія жожоба вирішує проблему випадіння волосся, викликаної такими захворюваннями, як дерматит шкіри голови, псоріаз і екзема. Робить волосся більш блискучими, зводячи до мінімуму його пошкодження, внаслідок зовнішніх чинників.",
+    "price": 270,
+    "discountPercentage": 0,
+    "rating": 4.0,
+    "stock": 20,
+    "category": "women",
+    "subcategory": "cosmetics",
+    "color": "none",
+    "size": ["one"],
+    "thumbnail": "https://intertop.ua/load/HI-04-422/412x550/MAIN.jpeg",
+    "preview": [
+      "https://intertop.ua/load/HI-04-422/200x267/MAIN.jpeg",
+      "https://intertop.ua/load/HI-04-422/200x267/1.jpeg"
+    ],
+    "images": [
+      "https://intertop.ua/load/HI-04-422/412x550/MAIN.jpeg",
+      "https://intertop.ua/load/HI-04-422/412x550/1.jpeg"
+    ],
+    "screen": [
+      "https://intertop.ua/load/HI-04-422/1600x2133/MAIN.jpeg",
+      "https://intertop.ua/load/HI-04-422/1600x2133/1.jpeg"
+    ]
+  },
+  {
+    "id": "8553026",
+    "brand": "MARIE FRESH Cosmetics",
+    "title": "скраб aнтицелюлітний для тіла",
+    "description": "Розроблений на основі інноваційної технології 20% біодоступного кофеїну, який на 112% активніше проникає в шкіру, ніж звичайний скраб з кофеїном та активно розщеплює жирові відкладення і бореться з апельсиновою кіркою.",
+    "price": 390,
+    "discountPercentage": 15,
+    "rating": 4.5,
+    "stock": 3,
+    "category": "women",
+    "subcategory": "cosmetics",
+    "color": "none",
+    "size": ["one"],
+    "thumbnail": "https://intertop.ua/load/acp-1-250/412x550/MAIN.jpg",
+    "preview": [
+      "https://intertop.ua/load/acp-1-250/200x267/MAIN.jpg",
+      "https://intertop.ua/load/acp-1-250/200x267/1.jpg",
+      "https://intertop.ua/load/acp-1-250/200x267/2.jpg"
+    ],
+    "images": [
+      "https://intertop.ua/load/acp-1-250/412x550/MAIN.jpg",
+      "https://intertop.ua/load/acp-1-250/412x550/1.jpg",
+      "https://intertop.ua/load/acp-1-250/412x550/2.jpg"
+    ],
+    "screen": [
+      "https://intertop.ua/load/acp-1-250/1600x2133/MAIN.jpg",
+      "https://intertop.ua/load/acp-1-250/1600x2133/1.jpg",
+      "https://intertop.ua/load/acp-1-250/1600x2133/2.jpg"
+    ]
+  },
+  {
+    "id": "8447721",
+    "brand": "EA7 Core",
+    "title": "скуртка демісезонна",
+    "description": "EA7 – спортивна лінійка легендарного преміум-бренду Emporio Armani, що була заснована 2004 року.",
+    "price": 8799,
+    "discountPercentage": 25,
+    "rating": 4.7,
+    "stock": 50,
+    "category": "women",
+    "subcategory": "clothes",
+    "color": "blue",
+    "size": ["M", "L", "XL", "XXL"],
+    "thumbnail": "https://intertop.ua/load/7P650/412x550/MAIN.jpg",
+    "preview": [
+      "https://intertop.ua/load/7P650/200x267/MAIN.jpg",
+      "https://intertop.ua/load/7P650/200x267/1.jpg",
+      "https://intertop.ua/load/7P650/200x267/2.jpg",
+      "https://intertop.ua/load/7P650/200x267/3.jpg"
+    ],
+    "images": [
+      "https://intertop.ua/load/7P650/412x550/MAIN.jpg",
+      "https://intertop.ua/load/7P650/412x550/1.jpg",
+      "https://intertop.ua/load/7P650/412x550/2.jpg",
+      "https://intertop.ua/load/7P650/412x550/3.jpg"
+    ],
+    "screen": [
+      "https://intertop.ua/load/7P650/1600x2133/MAIN.jpg",
+      "https://intertop.ua/load/7P650/1600x2133/1.jpg",
+      "https://intertop.ua/load/7P650/1600x2133/2.jpg",
+      "https://intertop.ua/load/7P650/1600x2133/3.jpg"
+    ]
+  },
+  {
+    "id": "8575373",
+    "brand": "Lee West",
+    "title": "джинси прямі",
+    "description": "Вже понад сто років Lee залишається лідером в сегменті джинсового одягу, однак його асортимент давно не обмежується денімом.",
+    "price": 3999,
+    "discountPercentage": 0,
+    "rating": 4.3,
+    "stock": 24,
+    "category": "man",
+    "subcategory": "clothes",
+    "color": "blue",
+    "size": ["S", "M", "L", "XL"],
+    "thumbnail": "https://intertop.ua/load/LEE628/412x550/MAIN.jpg",
+    "preview": [
+      "https://intertop.ua/load/LEE628/200x267/MAIN.jpg",
+      "https://intertop.ua/load/LEE628/200x267/1.jpg",
+      "https://intertop.ua/load/LEE628/200x267/2.jpg",
+      "https://intertop.ua/load/LEE628/200x267/3.jpg",
+      "https://intertop.ua/load/LEE628/200x267/4.jpg"
+    ],
+    "images": [
+      "https://intertop.ua/load/LEE628/412x550/MAIN.jpg",
+      "https://intertop.ua/load/LEE628/412x550/1.jpg",
+      "https://intertop.ua/load/LEE628/412x550/2.jpg",
+      "https://intertop.ua/load/LEE628/412x550/3.jpg",
+      "https://intertop.ua/load/LEE628/412x550/4.jpg"
+    ],
+    "screen": [
+      "https://intertop.ua/load/LEE628/1600x2133/MAIN.jpg",
+      "https://intertop.ua/load/LEE628/1600x2133/1.jpg",
+      "https://intertop.ua/load/LEE628/1600x2133/2.jpg",
+      "https://intertop.ua/load/LEE628/1600x2133/3.jpg",
+      "https://intertop.ua/load/LEE628/1600x2133/4.jpg"
+    ]
+  },
+  {
+    "id": "8573924",
+    "brand": "Wrangler Regular",
+    "title": "джинси прямі",
+    "description": "Wrangler — легендарний американський бренд одягу, що відомий своїми джинсами. З моменту свого заснування 1947 року і дотепер Wrangler є символом автентичного стилю, виняткової функціональності та якості.",
+    "price": 2199,
+    "discountPercentage": 0,
+    "rating": 3.5,
+    "stock": 15,
+    "category": "man",
+    "subcategory": "clothes",
+    "color": "blue",
+    "size": ["S", "M", "L", "XL", "XXL"],
+    "thumbnail": "https://intertop.ua/load/WRA745/412x550/MAIN.jpg",
+    "preview": [
+      "https://intertop.ua/load/WRA745/200x267/MAIN.jpg",
+      "https://intertop.ua/load/WRA745/200x267/1.jpg",
+      "https://intertop.ua/load/WRA745/200x267/2.jpg",
+      "https://intertop.ua/load/WRA745/200x267/3.jpg",
+      "https://intertop.ua/load/WRA745/200x267/4.jpg"
+    ],
+    "images": [
+      "https://intertop.ua/load/WRA745/412x550/MAIN.jpg",
+      "https://intertop.ua/load/WRA745/412x550/1.jpg",
+      "https://intertop.ua/load/WRA745/412x550/2.jpg",
+      "https://intertop.ua/load/WRA745/412x550/3.jpg",
+      "https://intertop.ua/load/WRA745/412x550/4.jpg"
+    ],
+    "screen": [
+      "https://intertop.ua/load/WRA745/1600x2133/MAIN.jpg",
+      "https://intertop.ua/load/WRA745/1600x2133/1.jpg",
+      "https://intertop.ua/load/WRA745/1600x2133/2.jpg",
+      "https://intertop.ua/load/WRA745/1600x2133/3.jpg",
+      "https://intertop.ua/load/WRA745/1600x2133/4.jpg"
+    ]
   }
 ]
