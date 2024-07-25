@@ -1,6 +1,16 @@
 ﻿[
   {
     "id": "017",
+    "main": "works",
+    "category": "works",
+    "workName": "ALMSyst",
+    "workImage": "https://i.postimg.cc/sXMfp7GC/clickhouse.jpg",
+    "workLink": "https://khaooohs-clickhouse.netlify.app/",
+    "workSkill": "React.js | Redux-Toolkit | createAsyncThunk",
+    "note": "adaptive"
+  },
+  {
+    "id": "017",
     "main": "react",
     "category": "react",
     "workName": "Store | Platzi Fake API",
