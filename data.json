@@ -1,16 +1,16 @@
 ﻿[
   {
-    "id": "017",
-    "main": "works",
-    "category": "works",
+    "id": "019",
+    "main": "work",
+    "category": "work",
     "workName": "ALMSyst",
     "workImage": "https://i.postimg.cc/sXMfp7GC/clickhouse.jpg",
     "workLink": "https://khaooohs-clickhouse.netlify.app/",
-    "workSkill": "React.js | Redux-Toolkit | createAsyncThunk",
+    "workSkill": "",
     "note": "adaptive"
   },
   {
-    "id": "017",
+    "id": "018",
     "main": "react",
     "category": "react",
     "workName": "Store | Platzi Fake API",
@@ -45,7 +45,7 @@
     "workName": "Fat Burgers",
     "workImage": "https://i.postimg.cc/zvSkXWbk/fat-burgers.jpg",
     "workLink": "https://khaooohs-fat-burger-react.netlify.app/",
-    "workSkill": "React.js + RTK Query + React Hook Form",
+    "workSkill": "React.js | RTK Query | React Hook Form",
     "note": "After logging, you can edit posts: create, edit, delete. adaptive"
   },
   {
@@ -64,7 +64,7 @@
     "workName": "Infinizai",
     "workImage": "https://i.postimg.cc/kGRVsR1B/infinizai.jpg",
     "workLink": "https://khaooohs-infinizai.netlify.app/",
-    "workSkill": "html + css + js",
+    "workSkill": "html | css | js",
     "note": "adaptive"
   },
   {
@@ -74,7 +74,7 @@
     "workName": "Sport-if",
     "workImage": "https://i.postimg.cc/DZHQ7TR4/sport-if.jpg",
     "workLink": "https://khaooohs-sport-if.netlify.app/",
-    "workSkill": "html + css + js",
+    "workSkill": "html | css | js",
     "note": "adaptive"
   },
   {
@@ -83,7 +83,7 @@
     "workName": "Pizza",
     "workImage": "https://i.postimg.cc/bY4LhxjV/pizza.jpg",
     "workLink": "https://khaooohs-pizza.netlify.app/",
-    "workSkill": "html + css + js",
+    "workSkill": "html | css | js",
     "note": "drag & drop | desktop version"
   },
   {
@@ -93,7 +93,7 @@
     "workName": "Achille-ciio",
     "workImage": "https://i.postimg.cc/RFCpchYv/achille-ciio.jpg",
     "workLink": "https://khaooohs-achille-ciio.netlify.app/",
-    "workSkill": "html + css + bootstrap",
+    "workSkill": "html | css | bootstrap",
     "note": "adaptive, nine page website"
   },
   {
@@ -102,7 +102,7 @@
     "workName": "Dupper-bully",
     "workImage": "https://i.postimg.cc/wjpVt9Mh/dupper-bully.jpg",
     "workLink": "https://khaooohs-dupper-bully.netlify.app/",
-    "workSkill": "html + css +scss + js",
+    "workSkill": "html | css |scss | js",
     "note": "animation, adaptive"
   },
   {
@@ -111,7 +111,7 @@
     "workName": "Bikcraft",
     "workImage": "https://i.postimg.cc/k4p6Wvy0/bikcraft.jpg",
     "workLink": "https://khaooohs-bikcraft.netlify.app/",
-    "workSkill": "html + css  + scss + js",
+    "workSkill": "html | css  | scss | js",
     "note": "adaptive"
   },
   {
@@ -120,7 +120,7 @@
     "workName": "Resume-one",
     "workImage": "https://i.postimg.cc/52SmLDQD/resume-one.jpg",
     "workLink": "https://khaooohs-homework-6.netlify.app/",
-    "workSkill": "html + css + scss",
+    "workSkill": "html | css | scss",
     "note": "adaptive, burger menu in CSS"
   },
   {
@@ -129,7 +129,7 @@
     "workName": "Orno",
     "workImage": "https://i.postimg.cc/sfMKqnbZ/orno.jpg",
     "workLink": "https://khaooohs-orno.netlify.app/",
-    "workSkill": "html + css + jquery",
+    "workSkill": "html | css | jquery",
     "note": "adaptive"
   },
   {
@@ -147,7 +147,7 @@
     "workName": "MI-electro",
     "workImage": "https://i.postimg.cc/RVfdVWSS/mi-electro.jpg",
     "workLink": "https://khaooohs-my-electro.netlify.app/",
-    "workSkill": "html + css + scss + js",
+    "workSkill": "html | css | scss | js",
     "note": "adaptive"
   }
 ]
