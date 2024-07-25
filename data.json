@@ -3,6 +3,16 @@
     "id": "017",
     "main": "react",
     "category": "react",
+    "workName": "Store | Platzi Fake API",
+    "workImage": "https://i.postimg.cc/sXMfp7GC/clickhouse.jpg",
+    "workLink": "https://khaooohs-clickhouse.netlify.app/",
+    "workSkill": "React.js + Redux-Toolkit + createAsyncThunk",
+    "note": "adaptive"
+  },
+  {
+    "id": "017",
+    "main": "react",
+    "category": "react",
     "workName": "Mollen",
     "workImage": "https://i.postimg.cc/GtrgMs3z/mollen.jpg",
     "workLink": "https://khaooohs-mollen-client-tailwind.netlify.app/",
@@ -21,7 +31,6 @@
   },
   {
     "id": "016",
-    "main": "react",
     "category": "react",
     "workName": "Fat Burgers",
     "workImage": "https://i.postimg.cc/zvSkXWbk/fat-burgers.jpg",
@@ -31,7 +40,6 @@
   },
   {
     "id": "014",
-    "main": "react",
     "category": "react",
     "workName": "CRM",
     "workImage": "https://i.postimg.cc/QttKBycg/crm.jpg",
@@ -66,7 +74,7 @@
     "workImage": "https://i.postimg.cc/bY4LhxjV/pizza.jpg",
     "workLink": "https://khaooohs-pizza.netlify.app/",
     "workSkill": "html + css + js",
-    "note": "drag & drop"
+    "note": "drag & drop | desktop version"
   },
   {
     "id": "004",
@@ -130,15 +138,6 @@
     "workImage": "https://i.postimg.cc/RVfdVWSS/mi-electro.jpg",
     "workLink": "https://khaooohs-my-electro.netlify.app/",
     "workSkill": "html + css + scss + js",
-    "note": "adaptive"
-  },
-  {
-    "id": "012",
-    "category": "html",
-    "workName": "Resume-two",
-    "workImage": "https://i.postimg.cc/JnGcwnYW/resume-two.jpg",
-    "workLink": "https://khaooohs-resume.netlify.app/",
-    "workSkill": "html + css",
     "note": "adaptive"
   }
 ]
