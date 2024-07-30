@@ -1,5 +1,15 @@
 ﻿[
   {
+    "id": "021",
+    "main": "react",
+    "category": "react",
+    "workName": "CMS | Platzi Fake API",
+    "workImage": "https://i.postimg.cc/Df1GRbMD/clickhouse-cms.jpg",
+    "workLink": "https://clickhouse-cms.netlify.app",
+    "workSkill": "React.js | Redux-Toolkit | createAsyncThunk",
+    "note": "Desktop - Laptop version | code splitting"
+  },
+  {
     "id": "020",
     "main": "work",
     "category": "work",
@@ -27,7 +37,7 @@
     "workImage": "https://i.postimg.cc/sXMfp7GC/clickhouse.jpg",
     "workLink": "https://khaooohs-clickhouse.netlify.app/",
     "workSkill": "React.js | Redux-Toolkit | createAsyncThunk",
-    "note": "adaptive"
+    "note": "adaptive | code splitting"
   },
   {
     "id": "017",
