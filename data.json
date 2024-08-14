@@ -6,7 +6,7 @@
     "workName": "CMS | Platzi Fake API",
     "workImage": "https://i.postimg.cc/Df1GRbMD/clickhouse-cms.jpg",
     "workLink": "https://clickhouse-cms.netlify.app",
-    "workSkill": "React.js | Redux-Toolkit | createAsyncThunk",
+    "workSkill": "React.js | Redux-Toolkit | createAsyncThunk | Auth JWT | MUI pagination",
     "note": "Desktop - Laptop version | code splitting"
   },
   {
@@ -36,7 +36,7 @@
     "workName": "Store | Platzi Fake API",
     "workImage": "https://i.postimg.cc/sXMfp7GC/clickhouse.jpg",
     "workLink": "https://khaooohs-clickhouse.netlify.app/",
-    "workSkill": "React.js | Redux-Toolkit | createAsyncThunk",
+    "workSkill": "React.js | Redux-Toolkit | createAsyncThunk | Auth JWT",
     "note": "adaptive | code splitting"
   },
   {
